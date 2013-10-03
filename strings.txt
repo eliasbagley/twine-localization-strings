@@ -2,9 +2,14 @@
     en = yes modified!!!
     es = si
     comment = message for displaying yes to the user
-    tag = android, ios
+    tags = android, ios
 
 [app_name]
     en = Main Activity
     comment = the name of the android app
-    tag = android
+    tags = android
+
+[ios_only]
+    en = ios rules!
+    comment = this string is for ios only
+    tags = ios
