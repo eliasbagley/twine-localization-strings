@@ -1,4 +1,4 @@
 [yes_message]
-    en = yes!!!
+    en = yes modified!!!
     es = si
     comment = message for displaying yes to the user
