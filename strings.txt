@@ -2,3 +2,9 @@
     en = yes modified!!!
     es = si
     comment = message for displaying yes to the user
+    tag = android, ios
+
+[app_name]
+    en = Main Activity
+    comment = the name of the android app
+    tag = android
