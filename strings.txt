@@ -1,0 +1,4 @@
+[yes_message]
+    en = yes
+    es = si
+    comment = message for displaying yes to the user
