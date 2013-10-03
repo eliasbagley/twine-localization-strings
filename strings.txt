@@ -2,7 +2,7 @@
     en = yes modified again!!!
     es = si
     comment = message for displaying yes to the user
-    tags = android, ios
+    tags = android,ios
 
 [app_name]
     en = Main Activity
