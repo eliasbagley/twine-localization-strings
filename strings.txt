@@ -1,5 +1,5 @@
 [yes_message]
-    en = yes modified again!!!
+    en = yes modified again2!!!
     es = si
     comment = message for displaying yes to the user
     tags = android,ios
