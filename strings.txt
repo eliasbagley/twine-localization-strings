@@ -3,6 +3,13 @@
     es = hola!
     tags = android,ios
 
+[hello_world_body]
+    en = Welcome to Android
+    tags = android
+[hello_world_ body]
+    en = Welcome to iOS
+    tags = ios
+
 [app_name]
     en = Main Activity
     comment = the name of the android app
