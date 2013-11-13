@@ -1,6 +1,6 @@
-[[Main]]
+[Main]]
 	[hello_world_label]
-		en = hello world!
+		en = Hello World!
 		tags = android,ios,translate
 	[hello_world_body_android]
 		en = Welcome to Android
