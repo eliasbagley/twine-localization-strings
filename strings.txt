@@ -1,16 +1,14 @@
-[hello_world_label]
-    en = hello, world!
-    es = hola!!
-    tags = android,ios
-
-[hello_world_body]
-    en = Welcome to Android
-    tags = android,translate
-[hello_world_body]
-    en = Welcome to iOS
-    tags = ios,translate
-
-[app_name]
-    en = Main Activity
-    comment = the name of the android app
-    tags = android,translate
+[[Main]]
+	[hello_world_label]
+		en = hello world!
+		tags = android,ios,translate
+	[hello_world_body_android]
+		en = Welcome to Android
+		tags = android,translate
+	[hello_world_body_ios]
+		en = Welcome to iOS
+		tags = ios,translate
+	[app_name]
+		en = Main Activity
+		tags = android,translate
+		comment = the name of the android app
