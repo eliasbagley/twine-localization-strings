@@ -1,6 +1,6 @@
 [hello_world_label]
     en = hello, world!
-    es = hola!
+    es = hola!!
     tags = android,ios
 
 [hello_world_body]
