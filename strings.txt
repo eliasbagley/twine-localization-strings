@@ -1,15 +1,9 @@
-[yes_message]
-    en = yes modified again2!!!
-    es = si
-    comment = message for displaying yes to the user
+[hello_world_label]
+    en = hello world!
+    es = hola!
     tags = android,ios
 
 [app_name]
     en = Main Activity
     comment = the name of the android app
     tags = android
-
-[ios_only]
-    en = ios rules!
-    comment = this string is for ios only
-    tags = ios
