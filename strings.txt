@@ -6,7 +6,7 @@
 [hello_world_body]
     en = Welcome to Android
     tags = android
-[hello_world_ body]
+[hello_world_body]
     en = Welcome to iOS
     tags = ios
 
