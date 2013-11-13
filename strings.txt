@@ -1,14 +1,21 @@
-[Main]]
+[[Main]]
 	[hello_world_label]
 		en = Hello World!
-		tags = android,ios,translate
+		tags = android,ios
+		es = Hola mundo!
 	[hello_world_body_android]
 		en = Welcome to Android
-		tags = android,translate
+		tags = android
+		es = bienvenido a Android
 	[hello_world_body_ios]
 		en = Welcome to iOS
-		tags = ios,translate
+		tags = ios
+		es = bienvenido a iOS
+    [key1]
+        en = value
+        tags = translate
 	[app_name]
 		en = Main Activity
-		tags = android,translate
+		tags = android
 		comment = the name of the android app
+		es = el Main Activity
